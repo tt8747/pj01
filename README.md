@@ -1,0 +1,1 @@
+## `phpinfo();` for test aims
