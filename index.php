@@ -12,7 +12,7 @@ $mem->set("blah", "I am data! I am held in memcached!") or die("Couldn’t save 
 echo "<hr/>";
 // Email
 // if (false) {
-if (mail('tty8747@gmail.com', 'Greetings', 'Hey there!', 'From: test10@test3.clo.southbridge.ru')) {
+if (mail('test-byc5hep0i@srv1.mail-tester.com', 'Greetings', 'Hey there!', 'From: test10@test3.clo.southbridge.ru')) {
   echo "email has been sent";
 } else {
   echo "email hasn't been sent";
